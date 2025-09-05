@@ -75,6 +75,7 @@ Windows:
 ```shell
 .venv\Scripts\activate
 py -m producers.kafka_producer_case
+py -m producers.kafka_producer_mcruz
 ```
 
 Mac/Linux:
@@ -96,6 +97,7 @@ Windows:
 ```shell
 .venv\Scripts\activate
 py -m consumers.kafka_consumer_case
+py -m consumers.kafka_consumer_mcruz
 ```
 
 Mac/Linux:
