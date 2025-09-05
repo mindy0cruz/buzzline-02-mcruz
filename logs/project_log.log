@@ -1,271 +1,193 @@
-2025-09-02 19:28:58 | INFO | Processing message: This is a buzz message.
-2025-09-02 19:28:59 | INFO | Generated buzz: Have a great day!
-2025-09-02 19:28:59 | INFO | Sent message to topic 'buzzline': Have a great day!
-2025-09-02 19:28:59 | INFO | Processing message: Have a great day!
-2025-09-02 19:29:00 | INFO | Generated buzz: I love Python!
-2025-09-02 19:29:00 | INFO | Sent message to topic 'buzzline': I love Python!
-2025-09-02 19:29:01 | INFO | Processing message: I love Python!
-2025-09-02 19:29:02 | INFO | Generated buzz: Kafka is awesome.
-2025-09-02 19:29:02 | INFO | Sent message to topic 'buzzline': Kafka is awesome.
-2025-09-02 19:29:02 | INFO | Processing message: Kafka is awesome.
-2025-09-02 19:29:03 | INFO | Generated buzz: Streaming data is fun.
-2025-09-02 19:29:03 | INFO | Sent message to topic 'buzzline': Streaming data is fun.
-2025-09-02 19:29:03 | INFO | Processing message: Streaming data is fun.
-2025-09-02 19:29:04 | INFO | Generated buzz: This is a buzz message.
-2025-09-02 19:29:04 | INFO | Sent message to topic 'buzzline': This is a buzz message.
-2025-09-02 19:29:04 | INFO | Processing message: This is a buzz message.
-2025-09-02 19:29:05 | INFO | Generated buzz: Have a great day!
-2025-09-02 19:29:05 | INFO | Sent message to topic 'buzzline': Have a great day!
-2025-09-02 19:29:05 | INFO | Processing message: Have a great day!
-2025-09-02 19:29:06 | INFO | Generated buzz: I love Python!
-2025-09-02 19:29:06 | INFO | Sent message to topic 'buzzline': I love Python!
-2025-09-02 19:29:06 | INFO | Processing message: I love Python!
-2025-09-02 19:29:07 | INFO | Generated buzz: Kafka is awesome.
-2025-09-02 19:29:07 | INFO | Sent message to topic 'buzzline': Kafka is awesome.
-2025-09-02 19:29:07 | INFO | Processing message: Kafka is awesome.
-2025-09-02 19:29:08 | INFO | Generated buzz: Streaming data is fun.
-2025-09-02 19:29:08 | INFO | Sent message to topic 'buzzline': Streaming data is fun.
-2025-09-02 19:29:08 | INFO | Processing message: Streaming data is fun.
-2025-09-02 19:29:09 | INFO | Generated buzz: This is a buzz message.
-2025-09-02 19:29:09 | INFO | Sent message to topic 'buzzline': This is a buzz message.
-2025-09-02 19:29:09 | INFO | Processing message: This is a buzz message.
-2025-09-02 19:29:10 | INFO | Generated buzz: Have a great day!
-2025-09-02 19:29:10 | INFO | Sent message to topic 'buzzline': Have a great day!
-2025-09-02 19:29:10 | INFO | Processing message: Have a great day!
-2025-09-02 19:29:11 | INFO | Generated buzz: I love Python!
-2025-09-02 19:29:11 | INFO | Sent message to topic 'buzzline': I love Python!
-2025-09-02 19:29:11 | INFO | Processing message: I love Python!
-2025-09-02 19:29:12 | INFO | Generated buzz: Kafka is awesome.
-2025-09-02 19:29:12 | INFO | Sent message to topic 'buzzline': Kafka is awesome.
-2025-09-02 19:29:12 | INFO | Processing message: Kafka is awesome.
-2025-09-02 19:29:13 | INFO | Generated buzz: Streaming data is fun.
-2025-09-02 19:29:13 | INFO | Sent message to topic 'buzzline': Streaming data is fun.
-2025-09-02 19:29:13 | INFO | Processing message: Streaming data is fun.
-2025-09-02 19:29:14 | INFO | Generated buzz: This is a buzz message.
-2025-09-02 19:29:14 | INFO | Sent message to topic 'buzzline': This is a buzz message.
-2025-09-02 19:29:14 | INFO | Processing message: This is a buzz message.
-2025-09-02 19:29:15 | INFO | Generated buzz: Have a great day!
-2025-09-02 19:29:15 | INFO | Sent message to topic 'buzzline': Have a great day!
-2025-09-02 19:29:15 | INFO | Processing message: Have a great day!
-2025-09-02 19:29:16 | INFO | Generated buzz: I love Python!
-2025-09-02 19:29:16 | INFO | Sent message to topic 'buzzline': I love Python!
-2025-09-02 19:29:16 | INFO | Processing message: I love Python!
-2025-09-02 19:29:17 | INFO | Generated buzz: Kafka is awesome.
-2025-09-02 19:29:17 | INFO | Sent message to topic 'buzzline': Kafka is awesome.
-2025-09-02 19:29:17 | INFO | Processing message: Kafka is awesome.
-2025-09-02 19:29:18 | INFO | Generated buzz: Streaming data is fun.
-2025-09-02 19:29:18 | INFO | Sent message to topic 'buzzline': Streaming data is fun.
-2025-09-02 19:29:18 | INFO | Processing message: Streaming data is fun.
-2025-09-02 19:29:19 | INFO | Generated buzz: This is a buzz message.
-2025-09-02 19:29:19 | INFO | Sent message to topic 'buzzline': This is a buzz message.
-2025-09-02 19:29:19 | INFO | Processing message: This is a buzz message.
-2025-09-02 19:29:20 | INFO | Generated buzz: Have a great day!
-2025-09-02 19:29:20 | INFO | Sent message to topic 'buzzline': Have a great day!
-2025-09-02 19:29:20 | INFO | Processing message: Have a great day!
-2025-09-02 19:29:21 | INFO | Generated buzz: I love Python!
-2025-09-02 19:29:21 | INFO | Sent message to topic 'buzzline': I love Python!
-2025-09-02 19:29:21 | INFO | Processing message: I love Python!
-2025-09-02 19:29:22 | INFO | Generated buzz: Kafka is awesome.
-2025-09-02 19:29:22 | INFO | Sent message to topic 'buzzline': Kafka is awesome.
-2025-09-02 19:29:22 | INFO | Processing message: Kafka is awesome.
-2025-09-02 19:29:23 | INFO | Generated buzz: Streaming data is fun.
-2025-09-02 19:29:23 | INFO | Sent message to topic 'buzzline': Streaming data is fun.
-2025-09-02 19:29:23 | INFO | Processing message: Streaming data is fun.
-2025-09-02 19:29:24 | INFO | Generated buzz: This is a buzz message.
-2025-09-02 19:29:24 | INFO | Sent message to topic 'buzzline': This is a buzz message.
-2025-09-02 19:29:24 | INFO | Processing message: This is a buzz message.
-2025-09-02 19:29:25 | INFO | Generated buzz: Have a great day!
-2025-09-02 19:29:25 | INFO | Sent message to topic 'buzzline': Have a great day!
-2025-09-02 19:29:25 | INFO | Processing message: Have a great day!
-2025-09-02 19:29:26 | INFO | Generated buzz: I love Python!
-2025-09-02 19:29:26 | INFO | Sent message to topic 'buzzline': I love Python!
-2025-09-02 19:29:26 | INFO | Processing message: I love Python!
-2025-09-02 19:29:27 | INFO | Generated buzz: Kafka is awesome.
-2025-09-02 19:29:27 | INFO | Sent message to topic 'buzzline': Kafka is awesome.
-2025-09-02 19:29:27 | INFO | Processing message: Kafka is awesome.
-2025-09-02 19:29:28 | INFO | Generated buzz: Streaming data is fun.
-2025-09-02 19:29:28 | INFO | Sent message to topic 'buzzline': Streaming data is fun.
-2025-09-02 19:29:28 | INFO | Processing message: Streaming data is fun.
-2025-09-02 19:29:29 | INFO | Generated buzz: This is a buzz message.
-2025-09-02 19:29:29 | INFO | Sent message to topic 'buzzline': This is a buzz message.
-2025-09-02 19:29:29 | INFO | Processing message: This is a buzz message.
-2025-09-02 19:29:30 | INFO | Generated buzz: Have a great day!
-2025-09-02 19:29:30 | INFO | Sent message to topic 'buzzline': Have a great day!
-2025-09-02 19:29:30 | INFO | Processing message: Have a great day!
-2025-09-02 19:29:31 | INFO | Generated buzz: I love Python!
-2025-09-02 19:29:31 | INFO | Sent message to topic 'buzzline': I love Python!
-2025-09-02 19:29:31 | INFO | Processing message: I love Python!
-2025-09-02 19:29:32 | INFO | Generated buzz: Kafka is awesome.
-2025-09-02 19:29:32 | INFO | Sent message to topic 'buzzline': Kafka is awesome.
-2025-09-02 19:29:32 | INFO | Processing message: Kafka is awesome.
-2025-09-02 19:29:33 | INFO | Generated buzz: Streaming data is fun.
-2025-09-02 19:29:33 | INFO | Sent message to topic 'buzzline': Streaming data is fun.
-2025-09-02 19:29:33 | INFO | Processing message: Streaming data is fun.
-2025-09-02 19:29:34 | INFO | Generated buzz: This is a buzz message.
-2025-09-02 19:29:34 | INFO | Sent message to topic 'buzzline': This is a buzz message.
-2025-09-02 19:29:34 | INFO | Processing message: This is a buzz message.
-2025-09-02 19:29:35 | INFO | Generated buzz: Have a great day!
-2025-09-02 19:29:35 | INFO | Sent message to topic 'buzzline': Have a great day!
-2025-09-02 19:29:35 | INFO | Processing message: Have a great day!
-2025-09-02 19:29:36 | INFO | Generated buzz: I love Python!
-2025-09-02 19:29:36 | INFO | Sent message to topic 'buzzline': I love Python!
-2025-09-02 19:29:36 | INFO | Processing message: I love Python!
-2025-09-02 19:29:37 | INFO | Generated buzz: Kafka is awesome.
-2025-09-02 19:29:37 | INFO | Sent message to topic 'buzzline': Kafka is awesome.
-2025-09-02 19:29:37 | INFO | Processing message: Kafka is awesome.
-2025-09-02 19:29:38 | INFO | Generated buzz: Streaming data is fun.
-2025-09-02 19:29:38 | INFO | Sent message to topic 'buzzline': Streaming data is fun.
-2025-09-02 19:29:38 | INFO | Processing message: Streaming data is fun.
-2025-09-02 19:29:39 | INFO | Generated buzz: This is a buzz message.
-2025-09-02 19:29:39 | INFO | Sent message to topic 'buzzline': This is a buzz message.
-2025-09-02 19:29:39 | INFO | Processing message: This is a buzz message.
-2025-09-02 19:29:40 | INFO | Generated buzz: Have a great day!
-2025-09-02 19:29:40 | INFO | Sent message to topic 'buzzline': Have a great day!
-2025-09-02 19:29:40 | INFO | Processing message: Have a great day!
-2025-09-02 19:29:41 | INFO | Generated buzz: I love Python!
-2025-09-02 19:29:41 | INFO | Sent message to topic 'buzzline': I love Python!
-2025-09-02 19:29:41 | INFO | Processing message: I love Python!
-2025-09-02 19:29:42 | INFO | Generated buzz: Kafka is awesome.
-2025-09-02 19:29:42 | INFO | Sent message to topic 'buzzline': Kafka is awesome.
-2025-09-02 19:29:42 | INFO | Processing message: Kafka is awesome.
-2025-09-02 19:29:43 | INFO | Generated buzz: Streaming data is fun.
-2025-09-02 19:29:43 | INFO | Sent message to topic 'buzzline': Streaming data is fun.
-2025-09-02 19:29:43 | INFO | Processing message: Streaming data is fun.
-2025-09-02 19:29:44 | INFO | Generated buzz: This is a buzz message.
-2025-09-02 19:29:44 | INFO | Sent message to topic 'buzzline': This is a buzz message.
-2025-09-02 19:29:44 | INFO | Processing message: This is a buzz message.
-2025-09-02 19:29:45 | INFO | Generated buzz: Have a great day!
-2025-09-02 19:29:45 | INFO | Sent message to topic 'buzzline': Have a great day!
-2025-09-02 19:29:45 | INFO | Processing message: Have a great day!
-2025-09-02 19:29:46 | INFO | Generated buzz: I love Python!
-2025-09-02 19:29:46 | INFO | Sent message to topic 'buzzline': I love Python!
-2025-09-02 19:29:46 | INFO | Processing message: I love Python!
-2025-09-02 19:29:47 | INFO | Generated buzz: Kafka is awesome.
-2025-09-02 19:29:47 | INFO | Sent message to topic 'buzzline': Kafka is awesome.
-2025-09-02 19:29:47 | INFO | Processing message: Kafka is awesome.
-2025-09-02 19:29:48 | INFO | Generated buzz: Streaming data is fun.
-2025-09-02 19:29:48 | INFO | Sent message to topic 'buzzline': Streaming data is fun.
-2025-09-02 19:29:48 | INFO | Processing message: Streaming data is fun.
-2025-09-02 19:29:49 | INFO | Generated buzz: This is a buzz message.
-2025-09-02 19:29:49 | INFO | Sent message to topic 'buzzline': This is a buzz message.
-2025-09-02 19:29:49 | INFO | Processing message: This is a buzz message.
-2025-09-02 19:29:50 | INFO | Generated buzz: Have a great day!
-2025-09-02 19:29:50 | INFO | Sent message to topic 'buzzline': Have a great day!
-2025-09-02 19:29:50 | INFO | Processing message: Have a great day!
-2025-09-02 19:29:51 | INFO | Generated buzz: I love Python!
-2025-09-02 19:29:51 | INFO | Sent message to topic 'buzzline': I love Python!
-2025-09-02 19:29:51 | INFO | Processing message: I love Python!
-2025-09-02 19:29:52 | INFO | Generated buzz: Kafka is awesome.
-2025-09-02 19:29:52 | INFO | Sent message to topic 'buzzline': Kafka is awesome.
-2025-09-02 19:29:52 | INFO | Processing message: Kafka is awesome.
-2025-09-02 19:29:53 | INFO | Generated buzz: Streaming data is fun.
-2025-09-02 19:29:53 | INFO | Sent message to topic 'buzzline': Streaming data is fun.
-2025-09-02 19:29:53 | INFO | Processing message: Streaming data is fun.
-2025-09-02 19:29:54 | INFO | Generated buzz: This is a buzz message.
-2025-09-02 19:29:54 | INFO | Sent message to topic 'buzzline': This is a buzz message.
-2025-09-02 19:29:54 | INFO | Processing message: This is a buzz message.
-2025-09-02 19:29:55 | INFO | Generated buzz: Have a great day!
-2025-09-02 19:29:55 | INFO | Sent message to topic 'buzzline': Have a great day!
-2025-09-02 19:29:55 | INFO | Processing message: Have a great day!
-2025-09-02 19:29:56 | INFO | Generated buzz: I love Python!
-2025-09-02 19:29:56 | INFO | Sent message to topic 'buzzline': I love Python!
-2025-09-02 19:29:56 | INFO | Processing message: I love Python!
-2025-09-02 19:29:57 | INFO | Generated buzz: Kafka is awesome.
-2025-09-02 19:29:57 | INFO | Sent message to topic 'buzzline': Kafka is awesome.
-2025-09-02 19:29:57 | INFO | Processing message: Kafka is awesome.
-2025-09-02 19:29:58 | INFO | Generated buzz: Streaming data is fun.
-2025-09-02 19:29:58 | INFO | Sent message to topic 'buzzline': Streaming data is fun.
-2025-09-02 19:29:58 | INFO | Processing message: Streaming data is fun.
-2025-09-02 19:29:59 | INFO | Generated buzz: This is a buzz message.
-2025-09-02 19:29:59 | INFO | Sent message to topic 'buzzline': This is a buzz message.
-2025-09-02 19:29:59 | INFO | Processing message: This is a buzz message.
-2025-09-02 19:30:00 | INFO | Generated buzz: Have a great day!
-2025-09-02 19:30:00 | INFO | Sent message to topic 'buzzline': Have a great day!
-2025-09-02 19:30:00 | INFO | Processing message: Have a great day!
-2025-09-02 19:30:01 | INFO | Generated buzz: I love Python!
-2025-09-02 19:30:01 | INFO | Sent message to topic 'buzzline': I love Python!
-2025-09-02 19:30:01 | INFO | Processing message: I love Python!
-2025-09-02 19:30:02 | INFO | Generated buzz: Kafka is awesome.
-2025-09-02 19:30:02 | INFO | Sent message to topic 'buzzline': Kafka is awesome.
-2025-09-02 19:30:02 | INFO | Processing message: Kafka is awesome.
-2025-09-02 19:30:03 | INFO | Generated buzz: Streaming data is fun.
-2025-09-02 19:30:03 | INFO | Sent message to topic 'buzzline': Streaming data is fun.
-2025-09-02 19:30:03 | INFO | Processing message: Streaming data is fun.
-2025-09-02 19:30:04 | INFO | Generated buzz: This is a buzz message.
-2025-09-02 19:30:04 | INFO | Sent message to topic 'buzzline': This is a buzz message.
-2025-09-02 19:30:04 | INFO | Processing message: This is a buzz message.
-2025-09-02 19:30:05 | INFO | Generated buzz: Have a great day!
-2025-09-02 19:30:05 | INFO | Sent message to topic 'buzzline': Have a great day!
-2025-09-02 19:30:05 | INFO | Processing message: Have a great day!
-2025-09-02 19:30:06 | INFO | Generated buzz: I love Python!
-2025-09-02 19:30:06 | INFO | Sent message to topic 'buzzline': I love Python!
-2025-09-02 19:30:06 | INFO | Processing message: I love Python!
-2025-09-02 19:30:07 | INFO | Generated buzz: Kafka is awesome.
-2025-09-02 19:30:07 | INFO | Sent message to topic 'buzzline': Kafka is awesome.
-2025-09-02 19:30:07 | INFO | Processing message: Kafka is awesome.
-2025-09-02 19:30:08 | INFO | Generated buzz: Streaming data is fun.
-2025-09-02 19:30:08 | INFO | Sent message to topic 'buzzline': Streaming data is fun.
-2025-09-02 19:30:08 | INFO | Processing message: Streaming data is fun.
-2025-09-02 19:30:09 | INFO | Generated buzz: This is a buzz message.
-2025-09-02 19:30:09 | INFO | Sent message to topic 'buzzline': This is a buzz message.
-2025-09-02 19:30:09 | INFO | Processing message: This is a buzz message.
-2025-09-02 19:30:10 | INFO | Generated buzz: Have a great day!
-2025-09-02 19:30:10 | INFO | Sent message to topic 'buzzline': Have a great day!
-2025-09-02 19:30:10 | INFO | Processing message: Have a great day!
-2025-09-02 19:30:11 | INFO | Generated buzz: I love Python!
-2025-09-02 19:30:11 | INFO | Sent message to topic 'buzzline': I love Python!
-2025-09-02 19:30:11 | INFO | Processing message: I love Python!
-2025-09-02 19:30:12 | INFO | Generated buzz: Kafka is awesome.
-2025-09-02 19:30:12 | INFO | Sent message to topic 'buzzline': Kafka is awesome.
-2025-09-02 19:30:12 | INFO | Processing message: Kafka is awesome.
-2025-09-02 19:30:13 | INFO | Generated buzz: Streaming data is fun.
-2025-09-02 19:30:13 | INFO | Sent message to topic 'buzzline': Streaming data is fun.
-2025-09-02 19:30:13 | INFO | Processing message: Streaming data is fun.
-2025-09-02 19:30:14 | INFO | Generated buzz: This is a buzz message.
-2025-09-02 19:30:14 | INFO | Sent message to topic 'buzzline': This is a buzz message.
-2025-09-02 19:30:14 | INFO | Processing message: This is a buzz message.
-2025-09-02 19:30:15 | INFO | Generated buzz: Have a great day!
-2025-09-02 19:30:15 | INFO | Sent message to topic 'buzzline': Have a great day!
-2025-09-02 19:30:15 | INFO | Processing message: Have a great day!
-2025-09-02 19:30:16 | INFO | Generated buzz: I love Python!
-2025-09-02 19:30:16 | INFO | Sent message to topic 'buzzline': I love Python!
-2025-09-02 19:30:16 | INFO | Processing message: I love Python!
-2025-09-02 19:30:17 | INFO | Generated buzz: Kafka is awesome.
-2025-09-02 19:30:17 | INFO | Sent message to topic 'buzzline': Kafka is awesome.
-2025-09-02 19:30:17 | INFO | Processing message: Kafka is awesome.
-2025-09-02 19:30:18 | INFO | Generated buzz: Streaming data is fun.
-2025-09-02 19:30:18 | INFO | Sent message to topic 'buzzline': Streaming data is fun.
-2025-09-02 19:30:18 | INFO | Processing message: Streaming data is fun.
-2025-09-02 19:30:19 | INFO | Generated buzz: This is a buzz message.
-2025-09-02 19:30:19 | INFO | Sent message to topic 'buzzline': This is a buzz message.
-2025-09-02 19:30:19 | INFO | Processing message: This is a buzz message.
-2025-09-02 19:30:20 | INFO | Generated buzz: Have a great day!
-2025-09-02 19:30:20 | INFO | Sent message to topic 'buzzline': Have a great day!
-2025-09-02 19:30:20 | INFO | Processing message: Have a great day!
-2025-09-02 19:30:21 | INFO | Generated buzz: I love Python!
-2025-09-02 19:30:21 | INFO | Sent message to topic 'buzzline': I love Python!
-2025-09-02 19:30:21 | INFO | Processing message: I love Python!
-2025-09-02 19:30:22 | INFO | Generated buzz: Kafka is awesome.
-2025-09-02 19:30:22 | INFO | Sent message to topic 'buzzline': Kafka is awesome.
-2025-09-02 19:30:22 | INFO | Processing message: Kafka is awesome.
-2025-09-02 19:30:23 | INFO | Generated buzz: Streaming data is fun.
-2025-09-02 19:30:23 | INFO | Sent message to topic 'buzzline': Streaming data is fun.
-2025-09-02 19:30:23 | INFO | Processing message: Streaming data is fun.
-2025-09-02 19:30:24 | INFO | Generated buzz: This is a buzz message.
-2025-09-02 19:30:24 | INFO | Sent message to topic 'buzzline': This is a buzz message.
-2025-09-02 19:30:24 | INFO | Processing message: This is a buzz message.
-2025-09-02 19:30:25 | INFO | Generated buzz: Have a great day!
-2025-09-02 19:30:25 | INFO | Sent message to topic 'buzzline': Have a great day!
-2025-09-02 19:30:25 | INFO | Processing message: Have a great day!
-2025-09-02 19:30:26 | INFO | Generated buzz: I love Python!
-2025-09-02 19:30:26 | INFO | Sent message to topic 'buzzline': I love Python!
-2025-09-02 19:30:26 | INFO | Processing message: I love Python!
-2025-09-02 19:30:27 | INFO | Generated buzz: Kafka is awesome.
-2025-09-02 19:30:27 | INFO | Sent message to topic 'buzzline': Kafka is awesome.
-2025-09-02 19:30:27 | INFO | Processing message: Kafka is awesome.
-2025-09-02 19:30:27 | WARNING | Producer interrupted by user.
-2025-09-02 19:30:27 | INFO | Kafka producer closed.
-2025-09-02 19:30:27 | INFO | END producer.
-2025-09-02 19:30:29 | WARNING | Consumer interrupted by user.
-2025-09-02 19:30:29 | INFO | Kafka consumer for topic 'buzzline' closed.
-2025-09-02 19:30:29 | INFO | END consumer for topic 'buzzline' and group 'default_group'.
+2025-09-04 23:10:53 | INFO | Generated buzz: [Q4] Wilson dominates on both ends of the court.
+2025-09-04 23:10:53 | INFO | Sent message to topic 'buzzline': [Q4] Wilson dominates on both ends of the court.
+2025-09-04 23:10:53 | INFO | Processing message: [Q4] Wilson dominates on both ends of the court.
+2025-09-04 23:10:54 | INFO | Generated buzz: [Q4] Plum’s handles are next level.
+2025-09-04 23:10:54 | INFO | Sent message to topic 'buzzline': [Q4] Plum’s handles are next level.
+2025-09-04 23:10:54 | INFO | Processing message: [Q4] Plum’s handles are next level.
+2025-09-04 23:10:55 | INFO | Generated buzz: [Q4] Wilson putting up MVP numbers again.
+2025-09-04 23:10:55 | INFO | Sent message to topic 'buzzline': [Q4] Wilson putting up MVP numbers again.
+2025-09-04 23:10:55 | INFO | Processing message: [Q4] Wilson putting up MVP numbers again.
+2025-09-04 23:10:56 | INFO | Generated buzz: [Q2] The WNBA is growing bigger every season.
+2025-09-04 23:10:56 | INFO | Sent message to topic 'buzzline': [Q2] The WNBA is growing bigger every season.
+2025-09-04 23:10:56 | INFO | Processing message: [Q2] The WNBA is growing bigger every season.
+2025-09-04 23:10:57 | INFO | Generated buzz: [Q4] Plum’s handles are next level.
+2025-09-04 23:10:57 | INFO | Sent message to topic 'buzzline': [Q4] Plum’s handles are next level.
+2025-09-04 23:10:57 | INFO | Processing message: [Q4] Plum’s handles are next level.
+2025-09-04 23:10:58 | INFO | Generated buzz: [Q3] Collier is unstoppable in the paint!
+2025-09-04 23:10:58 | INFO | Sent message to topic 'buzzline': [Q3] Collier is unstoppable in the paint!
+2025-09-04 23:10:58 | INFO | Processing message: [Q3] Collier is unstoppable in the paint!
+2025-09-04 23:10:59 | INFO | Generated buzz: [Q4] Collier is unstoppable in the paint!
+2025-09-04 23:10:59 | INFO | Sent message to topic 'buzzline': [Q4] Collier is unstoppable in the paint!
+2025-09-04 23:10:59 | INFO | Processing message: [Q4] Collier is unstoppable in the paint!
+2025-09-04 23:11:00 | INFO | Generated buzz: [Q1] Collier is unstoppable in the paint!
+2025-09-04 23:11:00 | INFO | Sent message to topic 'buzzline': [Q1] Collier is unstoppable in the paint!
+2025-09-04 23:11:00 | INFO | Processing message: [Q1] Collier is unstoppable in the paint!
+2025-09-04 23:11:01 | INFO | Generated buzz: [Q2] Bueckers is the future of women’s basketball.
+2025-09-04 23:11:01 | INFO | Sent message to topic 'buzzline': [Q2] Bueckers is the future of women’s basketball.
+2025-09-04 23:11:01 | INFO | Processing message: [Q2] Bueckers is the future of women’s basketball.
+2025-09-04 23:11:01 | INFO | Bueckers mentioned! Count so far: 58
+2025-09-04 23:11:02 | INFO | Generated buzz: [Q4] Bueckers with a clutch three-pointer!
+2025-09-04 23:11:02 | INFO | Sent message to topic 'buzzline': [Q4] Bueckers with a clutch three-pointer!
+2025-09-04 23:11:02 | INFO | Processing message: [Q4] Bueckers with a clutch three-pointer!
+2025-09-04 23:11:02 | INFO | Bueckers mentioned! Count so far: 59
+2025-09-04 23:11:03 | INFO | Generated buzz: [Q4] Bueckers with a clutch three-pointer!
+2025-09-04 23:11:03 | INFO | Sent message to topic 'buzzline': [Q4] Bueckers with a clutch three-pointer!
+2025-09-04 23:11:03 | INFO | Processing message: [Q4] Bueckers with a clutch three-pointer!
+2025-09-04 23:11:03 | INFO | Bueckers mentioned! Count so far: 60
+2025-09-04 23:11:04 | INFO | Generated buzz: [Q1] Collier is unstoppable in the paint!
+2025-09-04 23:11:04 | INFO | Sent message to topic 'buzzline': [Q1] Collier is unstoppable in the paint!
+2025-09-04 23:11:04 | INFO | Processing message: [Q1] Collier is unstoppable in the paint!
+2025-09-04 23:11:05 | INFO | Generated buzz: [Q3] The WNBA is growing bigger every season.
+2025-09-04 23:11:05 | INFO | Sent message to topic 'buzzline': [Q3] The WNBA is growing bigger every season.
+2025-09-04 23:11:05 | INFO | Processing message: [Q3] The WNBA is growing bigger every season.
+2025-09-04 23:11:06 | INFO | Generated buzz: [Q3] Collier leading her team with grit and hustle.
+2025-09-04 23:11:06 | INFO | Sent message to topic 'buzzline': [Q3] Collier leading her team with grit and hustle.
+2025-09-04 23:11:06 | INFO | Processing message: [Q3] Collier leading her team with grit and hustle.
+2025-09-04 23:11:07 | INFO | Generated buzz: [Q2] Bueckers with a clutch three-pointer!
+2025-09-04 23:11:07 | INFO | Sent message to topic 'buzzline': [Q2] Bueckers with a clutch three-pointer!
+2025-09-04 23:11:07 | INFO | Processing message: [Q2] Bueckers with a clutch three-pointer!
+2025-09-04 23:11:07 | INFO | Bueckers mentioned! Count so far: 61
+2025-09-04 23:11:08 | INFO | Generated buzz: [Q3] Wilson dominates on both ends of the court.
+2025-09-04 23:11:08 | INFO | Sent message to topic 'buzzline': [Q3] Wilson dominates on both ends of the court.
+2025-09-04 23:11:08 | INFO | Processing message: [Q3] Wilson dominates on both ends of the court.
+2025-09-04 23:11:09 | INFO | Generated buzz: [Q3] Collier is unstoppable in the paint!
+2025-09-04 23:11:09 | INFO | Sent message to topic 'buzzline': [Q3] Collier is unstoppable in the paint!
+2025-09-04 23:11:09 | INFO | Processing message: [Q3] Collier is unstoppable in the paint!
+2025-09-04 23:11:10 | INFO | Generated buzz: [Q1] Collier is unstoppable in the paint!
+2025-09-04 23:11:10 | INFO | Sent message to topic 'buzzline': [Q1] Collier is unstoppable in the paint!
+2025-09-04 23:11:11 | INFO | Processing message: [Q1] Collier is unstoppable in the paint!
+2025-09-04 23:11:11 | INFO | Generated buzz: [Q1] Wilson putting up MVP numbers again.
+2025-09-04 23:11:11 | INFO | Sent message to topic 'buzzline': [Q1] Wilson putting up MVP numbers again.
+2025-09-04 23:11:11 | INFO | Processing message: [Q1] Wilson putting up MVP numbers again.
+2025-09-04 23:11:12 | INFO | Generated buzz: [Q2] Wilson dominates on both ends of the court.
+2025-09-04 23:11:13 | INFO | Sent message to topic 'buzzline': [Q2] Wilson dominates on both ends of the court.
+2025-09-04 23:11:13 | INFO | Processing message: [Q2] Wilson dominates on both ends of the court.
+2025-09-04 23:11:14 | INFO | Generated buzz: [Q4] Bueckers is the future of women’s basketball.
+2025-09-04 23:11:14 | INFO | Sent message to topic 'buzzline': [Q4] Bueckers is the future of women’s basketball.
+2025-09-04 23:11:14 | INFO | Processing message: [Q4] Bueckers is the future of women’s basketball.
+2025-09-04 23:11:14 | INFO | Bueckers mentioned! Count so far: 62
+2025-09-04 23:11:15 | INFO | Generated buzz: [Q1] Plum drains another deep shot!
+2025-09-04 23:11:15 | INFO | Sent message to topic 'buzzline': [Q1] Plum drains another deep shot!
+2025-09-04 23:11:15 | INFO | Processing message: [Q1] Plum drains another deep shot!
+2025-09-04 23:11:16 | INFO | Generated buzz: [Q2] Wilson dominates on both ends of the court.
+2025-09-04 23:11:16 | INFO | Sent message to topic 'buzzline': [Q2] Wilson dominates on both ends of the court.
+2025-09-04 23:11:16 | INFO | Processing message: [Q2] Wilson dominates on both ends of the court.
+2025-09-04 23:11:17 | INFO | Generated buzz: [Q2] Plum’s handles are next level.
+2025-09-04 23:11:17 | INFO | Sent message to topic 'buzzline': [Q2] Plum’s handles are next level.
+2025-09-04 23:11:17 | INFO | Processing message: [Q2] Plum’s handles are next level.
+2025-09-04 23:11:18 | INFO | Generated buzz: [Q3] The WNBA is growing bigger every season.
+2025-09-04 23:11:18 | INFO | Sent message to topic 'buzzline': [Q3] The WNBA is growing bigger every season.
+2025-09-04 23:11:18 | INFO | Processing message: [Q3] The WNBA is growing bigger every season.
+2025-09-04 23:11:19 | INFO | Generated buzz: [Q2] Bueckers with a clutch three-pointer!
+2025-09-04 23:11:19 | INFO | Sent message to topic 'buzzline': [Q2] Bueckers with a clutch three-pointer!
+2025-09-04 23:11:19 | INFO | Processing message: [Q2] Bueckers with a clutch three-pointer!
+2025-09-04 23:11:19 | INFO | Bueckers mentioned! Count so far: 63
+2025-09-04 23:11:20 | INFO | Generated buzz: [Q3] Nothing but respect for these WNBA legends.
+2025-09-04 23:11:20 | INFO | Sent message to topic 'buzzline': [Q3] Nothing but respect for these WNBA legends.
+2025-09-04 23:11:20 | INFO | Processing message: [Q3] Nothing but respect for these WNBA legends.
+2025-09-04 23:11:21 | INFO | Generated buzz: [Q2] The WNBA is growing bigger every season.
+2025-09-04 23:11:21 | INFO | Sent message to topic 'buzzline': [Q2] The WNBA is growing bigger every season.
+2025-09-04 23:11:21 | INFO | Processing message: [Q2] The WNBA is growing bigger every season.
+2025-09-04 23:11:22 | INFO | Generated buzz: [Q1] Plum drains another deep shot!
+2025-09-04 23:11:22 | INFO | Sent message to topic 'buzzline': [Q1] Plum drains another deep shot!
+2025-09-04 23:11:22 | INFO | Processing message: [Q1] Plum drains another deep shot!
+2025-09-04 23:11:23 | INFO | Generated buzz: [Q2] The WNBA is growing bigger every season.
+2025-09-04 23:11:23 | INFO | Sent message to topic 'buzzline': [Q2] The WNBA is growing bigger every season.
+2025-09-04 23:11:23 | INFO | Processing message: [Q2] The WNBA is growing bigger every season.
+2025-09-04 23:11:24 | INFO | Generated buzz: [Q2] Plum’s handles are next level.
+2025-09-04 23:11:24 | INFO | Sent message to topic 'buzzline': [Q2] Plum’s handles are next level.
+2025-09-04 23:11:24 | INFO | Processing message: [Q2] Plum’s handles are next level.
+2025-09-04 23:11:25 | INFO | Generated buzz: [Q3] Wilson putting up MVP numbers again.
+2025-09-04 23:11:25 | INFO | Sent message to topic 'buzzline': [Q3] Wilson putting up MVP numbers again.
+2025-09-04 23:11:25 | INFO | Processing message: [Q3] Wilson putting up MVP numbers again.
+2025-09-04 23:11:26 | INFO | Generated buzz: [Q3] The WNBA is growing bigger every season.
+2025-09-04 23:11:26 | INFO | Sent message to topic 'buzzline': [Q3] The WNBA is growing bigger every season.
+2025-09-04 23:11:26 | INFO | Processing message: [Q3] The WNBA is growing bigger every season.
+2025-09-04 23:11:27 | INFO | Generated buzz: [Q3] Wilson putting up MVP numbers again.
+2025-09-04 23:11:27 | INFO | Processing message: [Q3] Wilson putting up MVP numbers again.
+2025-09-04 23:11:27 | INFO | Sent message to topic 'buzzline': [Q3] Wilson putting up MVP numbers again.
+2025-09-04 23:11:28 | INFO | Generated buzz: [Q3] Collier is unstoppable in the paint!
+2025-09-04 23:11:28 | INFO | Sent message to topic 'buzzline': [Q3] Collier is unstoppable in the paint!
+2025-09-04 23:11:28 | INFO | Processing message: [Q3] Collier is unstoppable in the paint!
+2025-09-04 23:11:29 | INFO | Generated buzz: [Q1] Bueckers with a clutch three-pointer!
+2025-09-04 23:11:29 | INFO | Sent message to topic 'buzzline': [Q1] Bueckers with a clutch three-pointer!
+2025-09-04 23:11:29 | INFO | Processing message: [Q1] Bueckers with a clutch three-pointer!
+2025-09-04 23:11:29 | INFO | Bueckers mentioned! Count so far: 64
+2025-09-04 23:11:30 | INFO | Generated buzz: [Q4] Plum’s handles are next level.
+2025-09-04 23:11:30 | INFO | Sent message to topic 'buzzline': [Q4] Plum’s handles are next level.
+2025-09-04 23:11:30 | INFO | Processing message: [Q4] Plum’s handles are next level.
+2025-09-04 23:11:31 | INFO | Generated buzz: [Q1] Plum drains another deep shot!
+2025-09-04 23:11:31 | INFO | Sent message to topic 'buzzline': [Q1] Plum drains another deep shot!
+2025-09-04 23:11:31 | INFO | Processing message: [Q1] Plum drains another deep shot!
+2025-09-04 23:11:32 | INFO | Generated buzz: [Q4] Wilson dominates on both ends of the court.
+2025-09-04 23:11:32 | INFO | Sent message to topic 'buzzline': [Q4] Wilson dominates on both ends of the court.
+2025-09-04 23:11:32 | INFO | Processing message: [Q4] Wilson dominates on both ends of the court.
+2025-09-04 23:11:33 | INFO | Generated buzz: [Q1] The WNBA is growing bigger every season.
+2025-09-04 23:11:33 | INFO | Sent message to topic 'buzzline': [Q1] The WNBA is growing bigger every season.
+2025-09-04 23:11:33 | INFO | Processing message: [Q1] The WNBA is growing bigger every season.
+2025-09-04 23:11:34 | INFO | Generated buzz: [Q4] The WNBA is growing bigger every season.
+2025-09-04 23:11:34 | INFO | Sent message to topic 'buzzline': [Q4] The WNBA is growing bigger every season.
+2025-09-04 23:11:34 | INFO | Processing message: [Q4] The WNBA is growing bigger every season.
+2025-09-04 23:11:35 | INFO | Generated buzz: [Q3] Plum drains another deep shot!
+2025-09-04 23:11:35 | INFO | Sent message to topic 'buzzline': [Q3] Plum drains another deep shot!
+2025-09-04 23:11:35 | INFO | Processing message: [Q3] Plum drains another deep shot!
+2025-09-04 23:11:36 | INFO | Generated buzz: [Q3] Wilson dominates on both ends of the court.
+2025-09-04 23:11:36 | INFO | Sent message to topic 'buzzline': [Q3] Wilson dominates on both ends of the court.
+2025-09-04 23:11:36 | INFO | Processing message: [Q3] Wilson dominates on both ends of the court.
+2025-09-04 23:11:37 | INFO | Generated buzz: [Q4] Bueckers is the future of women’s basketball.
+2025-09-04 23:11:37 | INFO | Processing message: [Q4] Bueckers is the future of women’s basketball.
+2025-09-04 23:11:37 | INFO | Sent message to topic 'buzzline': [Q4] Bueckers is the future of women’s basketball.
+2025-09-04 23:11:37 | INFO | Bueckers mentioned! Count so far: 65
+2025-09-04 23:11:38 | INFO | Generated buzz: [Q2] Nothing but respect for these WNBA legends.
+2025-09-04 23:11:38 | INFO | Sent message to topic 'buzzline': [Q2] Nothing but respect for these WNBA legends.
+2025-09-04 23:11:38 | INFO | Processing message: [Q2] Nothing but respect for these WNBA legends.
+2025-09-04 23:11:39 | INFO | Generated buzz: [Q1] Bueckers with a clutch three-pointer!
+2025-09-04 23:11:39 | INFO | Sent message to topic 'buzzline': [Q1] Bueckers with a clutch three-pointer!
+2025-09-04 23:11:39 | INFO | Processing message: [Q1] Bueckers with a clutch three-pointer!
+2025-09-04 23:11:39 | INFO | Bueckers mentioned! Count so far: 66
+2025-09-04 23:11:40 | INFO | Generated buzz: [Q4] Collier leading her team with grit and hustle.
+2025-09-04 23:11:40 | INFO | Sent message to topic 'buzzline': [Q4] Collier leading her team with grit and hustle.
+2025-09-04 23:11:40 | INFO | Processing message: [Q4] Collier leading her team with grit and hustle.
+2025-09-04 23:11:41 | INFO | Generated buzz: [Q4] Wilson dominates on both ends of the court.
+2025-09-04 23:11:41 | INFO | Sent message to topic 'buzzline': [Q4] Wilson dominates on both ends of the court.
+2025-09-04 23:11:41 | INFO | Processing message: [Q4] Wilson dominates on both ends of the court.
+2025-09-04 23:11:42 | INFO | Generated buzz: [Q2] Plum drains another deep shot!
+2025-09-04 23:11:42 | INFO | Sent message to topic 'buzzline': [Q2] Plum drains another deep shot!
+2025-09-04 23:11:42 | INFO | Processing message: [Q2] Plum drains another deep shot!
+2025-09-04 23:11:43 | INFO | Generated buzz: [Q4] Collier leading her team with grit and hustle.
+2025-09-04 23:11:43 | INFO | Sent message to topic 'buzzline': [Q4] Collier leading her team with grit and hustle.
+2025-09-04 23:11:43 | INFO | Processing message: [Q4] Collier leading her team with grit and hustle.
+2025-09-04 23:11:44 | INFO | Generated buzz: [Q1] The WNBA is growing bigger every season.
+2025-09-04 23:11:44 | INFO | Sent message to topic 'buzzline': [Q1] The WNBA is growing bigger every season.
+2025-09-04 23:11:44 | INFO | Processing message: [Q1] The WNBA is growing bigger every season.
+2025-09-04 23:11:45 | INFO | Generated buzz: [Q4] Bueckers with a clutch three-pointer!
+2025-09-04 23:11:45 | INFO | Sent message to topic 'buzzline': [Q4] Bueckers with a clutch three-pointer!
+2025-09-04 23:11:45 | INFO | Processing message: [Q4] Bueckers with a clutch three-pointer!
+2025-09-04 23:11:45 | INFO | Bueckers mentioned! Count so far: 67
+2025-09-04 23:11:46 | INFO | Generated buzz: [Q1] Plum drains another deep shot!
+2025-09-04 23:11:46 | INFO | Sent message to topic 'buzzline': [Q1] Plum drains another deep shot!
+2025-09-04 23:11:46 | INFO | Processing message: [Q1] Plum drains another deep shot!
+2025-09-04 23:11:47 | INFO | Generated buzz: [Q1] Bueckers is the future of women’s basketball.
+2025-09-04 23:11:47 | INFO | Sent message to topic 'buzzline': [Q1] Bueckers is the future of women’s basketball.
+2025-09-04 23:11:47 | INFO | Processing message: [Q1] Bueckers is the future of women’s basketball.
+2025-09-04 23:11:47 | INFO | Bueckers mentioned! Count so far: 68
+2025-09-04 23:11:48 | INFO | Generated buzz: [Q2] Plum’s handles are next level.
+2025-09-04 23:11:48 | INFO | Sent message to topic 'buzzline': [Q2] Plum’s handles are next level.
+2025-09-04 23:11:48 | INFO | Processing message: [Q2] Plum’s handles are next level.
+2025-09-04 23:11:49 | INFO | Generated buzz: [Q4] Plum’s handles are next level.
+2025-09-04 23:11:49 | INFO | Sent message to topic 'buzzline': [Q4] Plum’s handles are next level.
+2025-09-04 23:11:49 | INFO | Processing message: [Q4] Plum’s handles are next level.
+2025-09-04 23:11:50 | INFO | Generated buzz: [Q4] Collier is unstoppable in the paint!
+2025-09-04 23:11:50 | INFO | Sent message to topic 'buzzline': [Q4] Collier is unstoppable in the paint!
+2025-09-04 23:11:50 | INFO | Processing message: [Q4] Collier is unstoppable in the paint!
+2025-09-04 23:11:51 | INFO | Generated buzz: [Q2] Bueckers with a clutch three-pointer!
+2025-09-04 23:11:51 | INFO | Sent message to topic 'buzzline': [Q2] Bueckers with a clutch three-pointer!
+2025-09-04 23:11:51 | INFO | Processing message: [Q2] Bueckers with a clutch three-pointer!
+2025-09-04 23:11:51 | INFO | Bueckers mentioned! Count so far: 69
+2025-09-04 23:11:51 | WARNING | Producer interrupted by user.
+2025-09-04 23:11:51 | INFO | Kafka producer closed.
+2025-09-04 23:11:51 | INFO | END producer.
+2025-09-04 23:11:53 | WARNING | Consumer interrupted by user.
+2025-09-04 23:11:53 | INFO | Kafka consumer for topic 'buzzline' closed.
+2025-09-04 23:11:53 | INFO | END consumer for topic 'buzzline' and group 'default_group'.
+2025-09-04 23:11:53 | INFO | Final Bueckers mention count: 69
